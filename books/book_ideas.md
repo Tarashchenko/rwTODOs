@@ -2,7 +2,7 @@
 
 - [ ] Hotubbing by tutorials
 - [x] Advanced debugging and reverse engineering
-- [ ] CVS by tutorials
+- [x] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [x] Make a todo List
